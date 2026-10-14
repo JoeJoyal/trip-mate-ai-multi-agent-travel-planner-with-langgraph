@@ -75,7 +75,7 @@ Thumbs.db
 # Uncomment if you don't need these in the image
 # =========================
 # images/
-docs/
-notebooks/
+# docs/
+# notebooks/
 
 
