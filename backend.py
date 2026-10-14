@@ -135,7 +135,7 @@ if not GROQ_API_KEY:
 llm = ChatGroq(
     model="qwen/qwen3.8-27b",
     api_key=GROQ_API_KEY,
-    max_tokens=800
+    max_tokens=2048
 )
 
 # ============================================================
