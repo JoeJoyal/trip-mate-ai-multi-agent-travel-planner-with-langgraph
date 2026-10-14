@@ -1,1 +1,1 @@
-postgresql://joewilson:xZ0Dnipct61NEYyc2s8C8LJn53EaIIJ3@dpg-db6uc2d9fdbs73edd0qg-a.virginia-postgres.render.com/agentmemory_adzg
+TripMate AI — A Multi-Agent Travel Planner with LangGraph
