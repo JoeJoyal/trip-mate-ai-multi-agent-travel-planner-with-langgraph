@@ -74,7 +74,7 @@ Thumbs.db
 # Documentation and local notes (optional)
 # Uncomment if you don't need these in the image
 # =========================
-images/
+# images/
 docs/
 notebooks/
 .test_tool.py
