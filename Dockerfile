@@ -1,4 +1,4 @@
-```dockerfile
+
 # ============================================================
 # 1. BASE IMAGE
 # ============================================================
@@ -48,4 +48,3 @@ EXPOSE 8000
 # --host 0.0.0.0 makes the application reachable outside
 # the container through its published Docker port.
 CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
-```
